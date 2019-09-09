@@ -1,5 +1,3 @@
-{
-	itom-bvd:11.01.001.8721
-	itom-coso:11.05.003.4721
-	itom-connector:8.02.006.6431
-	itom-AppManager:12.08.002.6711
+{"image": "itom-collect-once-vcenter-event-collector:1.1.0-024"},
+{"image": "itom-collect-once-agent-metric-collector:1.0.0-039"},
+{"image": "itom-collect-once-data-broker:13.10.011-012"},
